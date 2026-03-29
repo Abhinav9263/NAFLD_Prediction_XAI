@@ -236,7 +236,7 @@ Pull requests and improvements are welcome.
 
 ## 📬 Contact
 
-GitHub: [https://github.com/NishiKumariPatel](https://github.com/NishiKumariPatel)
+GitHub: [https://github.com/Abhinav9263](https://github.com/Abhinav9263)
 
 ---
 
